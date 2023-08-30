@@ -1,0 +1,22 @@
+{
+  "name": "yes",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LadiesOfCodeGroupSessions/yellow_tennis_2023.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LadiesOfCodeGroupSessions/yellow_tennis_2023/issues"
+  },
+  "homepage": "https://github.com/LadiesOfCodeGroupSessions/yellow_tennis_2023#readme",
+  "devDependencies": {
+    "jest": "^29.6.4"
+  }
+}
