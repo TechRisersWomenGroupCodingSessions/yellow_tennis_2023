@@ -9,7 +9,6 @@ class Tennis {
   //   const player1 = new Player("John");
   //   const player2 = new Player("Mary");
 }
-// const player1 = new Tennis("John");
-// const player2 = new Tennis("Mary");
+
 
 module.exports = Tennis;

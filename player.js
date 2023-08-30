@@ -4,4 +4,4 @@ class Player {
   }
 }
 
-module.exports = Tennis;
+module.exports = Player;
